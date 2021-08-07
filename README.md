@@ -1,3 +1,3 @@
-#Modal
+# Modal
 
 Practice implementing modal window objects.
